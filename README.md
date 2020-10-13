@@ -1,4 +1,4 @@
-# Vue Basic
+# Vue Basic Push
 
 ## Project setup
 
